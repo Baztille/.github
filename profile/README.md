@@ -1,8 +1,13 @@
 # Baztille
 
-**Baztille is an open civic-tech platform designed to make citizen decision-making and voting transparent, auditable, and accessible.**
+**Baztille is an open civic-tech platform designed to enable citizen-initiated decision-making that is transparent, auditable, and accessible.**
+
+Unlike most civic participation tools, Baztille is built around a **bottom-up model**:
+ideas, subjects, proposals, arguments and votes originate **from citizens themselves** — not from elected representatives, institutions, or platform operators.
 
 The project focuses on providing a trustworthy technical foundation for local and collective democratic processes, with a strong emphasis on openness and verifiability.
+
+🌐 **Project website:** https://baztille.org
 
 ---
 
@@ -23,6 +28,7 @@ If you are discovering Baztille, these are the two core repositories:
 
 - Mobile (iOS / Android) and web clients
 - User interaction, onboarding and UX
+- Citizen-driven creation of ideas, topics, proposals and arguments
 - Communicates exclusively with the open backend
 - Licensed under the **MIT License** to encourage reuse and adoption
 
@@ -30,11 +36,14 @@ If you are discovering Baztille, these are the two core repositories:
 
 ## 🧭 Project philosophy
 
-Baztille follows a simple principle:
+Baztille follows two core principles:
 
+> **Democratic legitimacy comes from citizens.**  
 > **Any system that counts votes must be open to scrutiny.**
 
-This is why:
+This means that:
+- all political content (ideas, subjects, propositions, arguments) is **initiated by citizens**
+- the platform does **not** impose agendas, topics or outcomes
 - the **backend** is released under a strong copyleft license (AGPL)
 - the **clients** are separated and more permissively licensed
 - transparency is treated as a technical requirement, not a promise
