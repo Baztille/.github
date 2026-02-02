@@ -26,7 +26,7 @@ If you are discovering Baztille, these are the two core repositories:
 ### 📱 Application (mobile & web client)
 👉 **https://github.com/Baztille/application**
 
-- Mobile (iOS / Android) and web clients
+- Mobile (iOS / Android) and web client
 - User interaction, onboarding and UX
 - Citizen-driven creation of ideas, topics, proposals and arguments
 - Communicates exclusively with the open backend
